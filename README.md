@@ -14,7 +14,7 @@ C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033
 
 ## Inference Engine 샘플 및 데모 경로
 
-샘플 : C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\deployment_tools\inference_engine\samples
+샘플 : C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\deployment_tools\inference_engine\samples<br/>
 데모 : C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\deployment_tools\inference_engine\demos
 
 
